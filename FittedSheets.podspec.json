@@ -1,21 +1,21 @@
 {
   "name": "FittedSheets",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "summary": "A bottom sheets implementation for iOS apps.",
   "description": "iOS doesn't have a good way to use bottom sheets natively, so this is to bridge the gap with a decent looking implementation.",
-  "homepage": "https://github.com/gordontucker/FittedSheets",
+  "homepage": "https://github.com/canaksoy/FittedSheets",
   "license": "MIT",
   "authors": {
-    "Gordon Tucker": "gordon.michael.tucker@gmail.com"
+    "Can Aksoy": "canaksoy@gmail.com"
   },
   "source": {
-    "git": "https://github.com/gordontucker/FittedSheets.git",
-    "tag": "2.5.3"
+    "git": "https://github.com/canaksoy/FittedSheets.git",
+    "tag": "2.5.4"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "social_media_url": "https://twitter.com/tuckeredoutfmly",
+  "social_media_url": "https://x.com/canaksoy",
   "requires_arc": true,
   "source_files": "FittedSheets/**/*.swift",
   "frameworks": [],
